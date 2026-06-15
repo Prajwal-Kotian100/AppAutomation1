@@ -1,4 +1,4 @@
-Feature: Login functionality
+Feature: Application Login functionality
 
   Scenario: Valid login
     Given User launches the browser
